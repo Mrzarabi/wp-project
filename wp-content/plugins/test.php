@@ -8,5 +8,5 @@
  * Version: 1.0.0
  * Description: سلام من به تو یارقدیمی <a hre"https://google.com"></a>
  * Lincence: x
- * Lincece URL: https://amohadi.com
+ * Lincece URL: https://amohadi.comasdfdf
  */
